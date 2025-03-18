@@ -12,7 +12,7 @@ News App is a responsive web application built with React, Vite, Tailwind CSS, a
 ## Installation
 
 1. Clone the repository:  
-   `git clone https://github.com/your-username/news-app.git`
+   `git clone https://github.com/vnv2315/news-app.git`
 
 2. Navigate into the project directory:  
    `cd news-app`
