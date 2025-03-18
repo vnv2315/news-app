@@ -1,18 +1,31 @@
-News App
-This project is a responsive News App built using React, Vite, Tailwind CSS, and React Router. It fetches and displays news articles using a News API. The app features category-based navigation, a clean and modern UI, and dynamic routing. It also utilizes environment variables to keep the API key secure. The application is optimized for both desktop and mobile devices.
+# News App
 
-Installation
-Clone the repository:
-git clone https://github.com/vnv2315/news-app.git
+News App is a responsive web application built with React, Vite, Tailwind CSS, and React Router. It fetches and displays the latest news articles from a News API, offering category-based navigation and a clean, modern interface.
 
-Navigate into the project directory:
-cd news-app
+## Features
 
-Install the dependencies:
-npm install
+- **Latest News:** Fetches real-time news articles.
+- **Responsive Design:** Optimized for both desktop and mobile devices.
+- **Category Navigation:** Easily browse through different news categories.
+- **Secure API Usage:** Uses environment variables to protect your API key.
 
-Create a .env file in the project root and add your API key:
-VITE_API_KEY=your_actual_api_key
+## Installation
 
-Run the development server:
-npm run dev
+1. Clone the repository:  
+   `git clone https://github.com/your-username/news-app.git`
+
+2. Navigate into the project directory:  
+   `cd news-app`
+
+3. Install the dependencies:  
+   `npm install`
+
+4. Create a `.env` file in the project root and add your API key:  
+   `VITE_API_KEY=your_actual_api_key`
+
+5. Run the development server:  
+   `npm run dev`
+
+## Note
+
+Ensure you have Node.js (v14 or higher) installed on your machine.
