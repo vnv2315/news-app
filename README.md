@@ -1,5 +1,9 @@
 # News App
 
+
+**Live Demo:** [Explore UniHive](https://storied-yeot-fa7337.netlify.app/)
+
+
 News App is a responsive web application built with React, Vite, Tailwind CSS, and React Router. It fetches and displays the latest news articles from a News API, offering category-based navigation and a clean, modern interface.
 
 ## Features
